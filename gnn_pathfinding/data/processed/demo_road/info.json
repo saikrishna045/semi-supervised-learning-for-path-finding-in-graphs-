@@ -1,0 +1,21 @@
+{
+  "dataset": "demo_road",
+  "kind": "roadnet",
+  "nodes": 2000,
+  "edges": 2957,
+  "features": [
+    "degree_norm",
+    "clustering",
+    "mean_edge_weight_norm",
+    "lap_pe_0",
+    "lap_pe_1",
+    "lap_pe_2",
+    "lap_pe_3"
+  ],
+  "has_coords": false,
+  "seed": 42,
+  "source_file": "data\\demo\\roadNet-DEMO.txt",
+  "weights": "simulated integers 1..5",
+  "raw_nodes": 9953,
+  "raw_edges": 14878
+}

@@ -1,0 +1,4 @@
+model,routes,success_rate_pct,avg_path_cost,avg_cost_ratio,avg_runtime_ms,avg_expansions
+Dijkstra,50,100.0,77.78,1.0,1.2584880006033927,
+Supervised GraphSAGE,50,100.0,224.56,3.2412067516932046,3796.8055579962675,718.64
+Pseudo-Labeled GraphSAGE,50,100.0,177.72,2.41641568805532,15463.573987992713,739.02

@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "n_pairs": 3000,
+  "n_test": 450,
+  "n_val": 300,
+  "n_train": 2250,
+  "label_fractions": {
+    "5pct": {
+      "labeled": 112,
+      "unlabeled": 2138
+    },
+    "10pct": {
+      "labeled": 225,
+      "unlabeled": 2025
+    },
+    "20pct": {
+      "labeled": 450,
+      "unlabeled": 1800
+    }
+  }
+}

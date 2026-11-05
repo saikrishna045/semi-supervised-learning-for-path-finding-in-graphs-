@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+networkx
+matplotlib
+
+# Needed only for the GNN part (Person B). Install following https://pytorch.org and
+# https://pytorch-geometric.readthedocs.io for your machine:
+# torch
+# torch_geometric

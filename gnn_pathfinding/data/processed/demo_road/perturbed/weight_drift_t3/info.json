@@ -1,0 +1,14 @@
+{
+  "step": 3,
+  "reweighted_edges": 435,
+  "closed_edges": 29,
+  "version": "weight_drift_t3",
+  "edges": 2869,
+  "edges_original": 2957,
+  "pairs_kept": "3000/3000",
+  "test_pairs_kept": 450,
+  "optimal_cost_change": 1.0230161328169611,
+  "stale_path_success": 0.3466666666666667,
+  "stale_path_accuracy": 0.09777777777777778,
+  "stale_path_mean_cost_ratio": 1.023824396423755
+}

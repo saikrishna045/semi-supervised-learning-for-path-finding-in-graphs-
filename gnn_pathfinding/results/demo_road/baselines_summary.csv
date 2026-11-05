@@ -1,0 +1,3 @@
+dataset,split,algo,n_queries,success_rate,path_accuracy,exact_match_rate,near_optimal_rate,mean_cost_ratio,median_cost_ratio,p95_cost_ratio,mean_runtime_ms,peak_memory_mb,mean_nodes_expanded,preprocess_s
+demo_road,test,dijkstra,450,1.0,1.0,0.7022222222222222,1.0,1.0,1.0,1.0,0.8307035565505632,0.2110748291015625,1050.8177777777778,0.0
+demo_road,test,astar_alt,450,1.0,1.0,0.6377777777777778,1.0,1.0,1.0,1.0,0.3416806660566686,0.06038665771484375,178.38444444444445,0.002183999982662499

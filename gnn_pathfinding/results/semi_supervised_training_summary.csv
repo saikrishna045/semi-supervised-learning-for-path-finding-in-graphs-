@@ -1,0 +1,3 @@
+experiment,labeled_pairs,unlabeled_pairs_used,training_seconds,checkpoint
+Supervised GraphSAGE,225,0,27.07,models/graphsage_supervised_10pct.pt
+Dijkstra-pseudo-labeled GraphSAGE,225,2025,73.46,models/graphsage_pseudolabeled_10pct.pt

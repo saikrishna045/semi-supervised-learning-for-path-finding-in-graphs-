@@ -1,0 +1,13 @@
+{
+  "requested_edges": 296,
+  "removed_edges": 296,
+  "version": "edge_removal_10",
+  "edges": 2661,
+  "edges_original": 2957,
+  "pairs_kept": "3000/3000",
+  "test_pairs_kept": 450,
+  "optimal_cost_change": 1.1614339158724547,
+  "stale_path_success": 0.06888888888888889,
+  "stale_path_accuracy": 0.06888888888888889,
+  "stale_path_mean_cost_ratio": 1.0
+}

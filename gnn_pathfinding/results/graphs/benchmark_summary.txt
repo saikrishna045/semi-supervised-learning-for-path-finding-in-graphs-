@@ -1,0 +1,18 @@
+GNN PATHFINDING BENCHMARK SUMMARY
+========================================
+Test routes: 450
+
+Supervised average path cost: 214.869
+Pseudo-labeled average path cost: 186.696
+Path cost reduction: 13.11%
+
+Supervised runtime: 98.535 ms
+Pseudo-labeled runtime: 84.790 ms
+Runtime reduction: 13.95%
+
+Interpretation:
+Pseudo-labeling improved the average path cost and runtime
+relative to supervised GraphSAGE in this benchmark.
+Dijkstra remained the strongest baseline for path cost and speed.
+
+Caution: Pseudo-labels were generated using Dijkstra reference paths.
